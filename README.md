@@ -2,10 +2,10 @@
 
 ### Reading Task List
 
-- [x] [Hacker How To](http://www.catb.org/~esr/faqs/hacker-howto.html)
-- [x] [The Word Hacker](http://www.paulgraham.com/gba.html)
-- [x] [Programming Bottom-up](http://www.paulgraham.com/progbot.html)
-- [x] [Hackers and Painters](http://www.paulgraham.com/hp.html)
+- [ ] [Hacker How To](http://www.catb.org/~esr/faqs/hacker-howto.html)
+- [ ] [The Word Hacker](http://www.paulgraham.com/gba.html)
+- [ ] [Programming Bottom-up](http://www.paulgraham.com/progbot.html)
+- [ ] [Hackers and Painters](http://www.paulgraham.com/hp.html)
 - [ ] [Python Paradox](http://www.paulgraham.com/pypar.html)
 - [ ] [Roots of Lisp](http://www.paulgraham.com/rootsoflisp.html)
 - [ ] [Cathedral vs Bazzar](http://www.catb.org/~esr/writings/cathedral-bazaar/)
